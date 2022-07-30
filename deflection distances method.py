@@ -1,5 +1,4 @@
-#offsets method
-
+#offsets method (or)
 #deflection distances method
 from math import*
 def whole_val_inc(p):
